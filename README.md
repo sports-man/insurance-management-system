@@ -1,15 +1,17 @@
-# Insurance Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
----
+
 ## screenshots
 ### Homepage
-![homepage snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/homepage.png?raw=true)
+![image](https://github.com/sports-man/insurance-management-system/assets/160496901/76433466-ef69-40d7-a82a-20f88d27bab9)
+
 ### Admin Dashboard
-![dashboard snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/dashboard.png?raw=true)
+![image](https://github.com/sports-man/insurance-management-system/assets/160496901/3d97b212-73a1-4cce-9b2d-fbd42bbe347f)
+
 ### Policy Record
-![invoice snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/policyrecord.png?raw=true)
+![image](https://github.com/sports-man/insurance-management-system/assets/160496901/33658843-36d6-4397-abba-60c082efb317)
+
 ### Policy 
-![doctor snap](https://github.com/sumitkumar1503/insurancemanagement/blob/master/static/screenshots/policy.png?raw=true)
+![image](https://github.com/sports-man/insurance-management-system/assets/160496901/6aaf6447-6aaf-4781-9678-18fb564db073)
+
 ---
 ## Functions
 ### Admin
@@ -58,14 +60,4 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 ```
 - Login to gmail through host email id in your browser and open following link and turn it ON
 ```
-https://myaccount.google.com/lesssecureapps
-```
 
-
-## Disclaimer
-This project is developed for demo purpose and it's not supposed to be used in real application.
-
-## Feedback
-Any suggestion and feedback is welcome. You can message me on facebook
-- [Contact on Facebook](https://fb.com/sumit.luv)
-- [Subscribe my Channel LazyCoder On Youtube](https://youtube.com/lazycoderonline)
