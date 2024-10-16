@@ -21,6 +21,7 @@
 - Can view/add/update/delete policy
 - Can view total policy holder, approved policy holder, disapproved policy holder
 - Can approve policy, applied by customer
+- Can answer customer question
 
 ### Customer
 - Create account (no approval required by admin)
