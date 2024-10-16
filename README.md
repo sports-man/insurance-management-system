@@ -29,7 +29,8 @@
 - If customer likes any policy, then they can apply for it.
 - When customer will apply for any policy, it will go into pending status, admin can approve it.
 - Customer can check status of his policy under history section
-- Customer can ask question from admin. 
+- Customer can ask question from admin.
+- Can answer customer question
 
 ---
 
